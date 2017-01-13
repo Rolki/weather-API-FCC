@@ -1,2 +1,2 @@
 # weather-API-FCC
-an activity for freecodecamp
+a Challenge from freecodecamp
